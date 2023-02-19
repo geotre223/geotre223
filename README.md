@@ -1,5 +1,2 @@
-- 👋 Hi, I’m geotre223
-- 👀 I’m interested in learning new things each days
-- 🌱 I’m currently working on ArkaniaStudios
-- 💞️ I’m looking to collaborate on MCBE projects using PMMP
-- 📫 How to reach me : Discord -> !" geotre223#0001
+Hi, I'm geotre223, 
+I'm currently working on @ArkaniaStudios    
